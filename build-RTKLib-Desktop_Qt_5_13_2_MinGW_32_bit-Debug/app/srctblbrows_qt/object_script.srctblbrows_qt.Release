@@ -1,0 +1,10 @@
+release/browsmain.o
+release/srctblbrows.o
+release/staoptdlg.o
+release/aboutdlg.o
+release/gmview.o
+release/qrc_srctblbrows_qt.o
+release/moc_browsmain.o
+release/moc_staoptdlg.o
+release/moc_aboutdlg.o
+release/moc_gmview.o

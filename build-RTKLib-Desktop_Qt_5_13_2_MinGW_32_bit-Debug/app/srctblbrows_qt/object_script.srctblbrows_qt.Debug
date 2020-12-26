@@ -1,0 +1,10 @@
+debug/browsmain.o
+debug/srctblbrows.o
+debug/staoptdlg.o
+debug/aboutdlg.o
+debug/gmview.o
+debug/qrc_srctblbrows_qt.o
+debug/moc_browsmain.o
+debug/moc_staoptdlg.o
+debug/moc_aboutdlg.o
+debug/moc_gmview.o
